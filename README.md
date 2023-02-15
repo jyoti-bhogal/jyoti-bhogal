@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a project titled "Building Pathways for Onbaording to RSE Asia" in collaboration wtih [OLS-5](https://openlifesci.org/ols-5/projects-participants/)
-- 🌱 I’m currently learning about Open Science
-- 📫 How to reach me: bhogaljyoti1@gmail.com
+-  🔭 I’m currently working as an Associate Engineer 
+-  🔭 I have worked on a project titled "Building Pathways for Onbaording to RSE Asia" in collaboration wtih [OLS-5](https://openlifesci.org/ols-5/projects-participants/)
+- 🌱 I’m curiously learning about Cloud Computing concepts and tools
+- 📫 How to reach me: 
+    - Gmail ID: bhogaljyoti1@gmail.com
+    - LinkedIn: [Jyoti Bhogal - LinkedIn](https://www.linkedin.com/in/jyoti-bhogal/)
+    - Twitter: [Jyoti Bhogal - Twitter](https://twitter.com/jyotibhogal7)
 - 😄 Pronouns: she/her
