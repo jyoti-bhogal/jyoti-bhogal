@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  🔭 I’m currently working as an Associate Engineer 
+-  🔭 I’m currently working as an Analyst.
 -  🔭 I have worked on a project titled "Building Pathways for Onbaording to RSE Asia" in collaboration wtih [OLS-5](https://openlifesci.org/ols-5/projects-participants/)
 - 🌱 I’m curiously learning about Cloud Computing concepts and tools
 - 📫 How to reach me: 
