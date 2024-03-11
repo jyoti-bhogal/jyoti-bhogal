@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
     - Gmail ID: bhogaljyoti1@gmail.com
     - LinkedIn: [Jyoti Bhogal - LinkedIn](https://www.linkedin.com/in/jyoti-bhogal/)
+    - Website: [Hi, I'm Jyoti](https://jyoti-bhogal.github.io/about-me/)
 - 😄 Pronouns: she/her
 - When I am not analysing data, I am reading biographies, taking a walk on the grass, having my favourite snacks, or thinking of ideas to work on 😊
