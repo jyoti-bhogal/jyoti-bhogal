@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  🔭 I’m currently working as a Technical Community Manager for [Research Software Alliance](https://www.researchsoft.org/).
+-  🔭 I’m currently working as a Software Community Manager for [Research Software Alliance](https://www.researchsoft.org/).
 -  🔭 I have worked on a project titled "Building Pathways for Onboarding to RSE Asia" in collaboration with [OLS-5](https://openlifesci.org/ols-5/projects-participants/)
 - 👯 I’m looking to collaborate on R package development.
 - 🌱 I’m curiously learning about Cloud Computing concepts and tools.
