@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -  🔭 I’m currently working as a Software Community Manager for [Research Software Alliance](https://www.researchsoft.org/).
+-  🔭 I am a Software Sustainability Institute (SSI) Fellow 2025. Here's my [SSI profile](https://www.software.ac.uk/fellowship-programme/jyoti-bhogal). 
 -  🔭 I have worked on a project titled "Building Pathways for Onboarding to RSE Asia" in collaboration with [OLS-5](https://openlifesci.org/ols-5/projects-participants/)
 - 👯 I’m looking to collaborate on R package development.
 - 🌱 I’m curiously learning about Cloud Computing concepts and tools.
