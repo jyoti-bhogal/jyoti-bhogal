@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  🔭 I’m currently working as a Software Community Manager for [Research Software Alliance](https://www.researchsoft.org/).
--  🔭 I am a Software Sustainability Institute (SSI) Fellow 2025. Here's my [SSI profile](https://www.software.ac.uk/fellowship-programme/jyoti-bhogal). 
--  🔭 I have worked on a project titled "Building Pathways for Onboarding to RSE Asia" in collaboration with [OLS-5](https://openlifesci.org/ols-5/projects-participants/)
-- 👯 I’m looking to collaborate on R package development.
+- 🔭 I’m currently working as a Co-Lead of [RSE Asia Association](https://www.linkedin.com/company/rse-asia-association/) and aim to build the RSE Community in Asian region.
+- 🔭 I am a Software Sustainability Institute (SSI) Fellow 2025. Here's my [SSI profile](https://www.software.ac.uk/fellowship-programme/jyoti-bhogal) for my project 'Research Study of the Research Software Engineering Landscape of Asia'. 
+- 🔭 I have worked on a project titled "Building Pathways for Onboarding to RSE Asia" in collaboration with [OLS-5](https://openlifesci.org/ols-5/projects-participants/)
+- 🌱 I am an advocate of Open Science, Open Source Software development, and Open Data.
+- 👯 I’m looking to collaborate on R package development. Here's my first R package [{generatervis}](https://github.com/Clinical-Informatics-Collaborative/generatervis).
 - 🌱 I’m curiously learning about Cloud Computing concepts and tools.
 - 📫 How to reach me: 
-    - Gmail ID: bhogaljyoti1@gmail.com
+    - Gmail Id: bhogaljyoti1@gmail.com
     - LinkedIn: [Jyoti Bhogal - LinkedIn](https://www.linkedin.com/in/jyoti-bhogal/)
     - Website: [Hi, I'm Jyoti](https://jyoti-bhogal.github.io/about-me/)
 - 😄 Pronouns: she/her
